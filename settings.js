@@ -1,6 +1,6 @@
 global.bankname = "OPAY"
 
-global.banknumber = "7042850798"
+global.banknumber = "66545345447766"
 
 global.bankowner = "PATRON"
 
